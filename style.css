@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.img{
+    font-size: 30px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: orchid;
+    color: yellow;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
